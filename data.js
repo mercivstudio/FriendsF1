@@ -146,9 +146,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "shot8",
-            "x": 1718.95,
+            "x": 1818.95,
             "size": "medium",
-            "y": 123.35,
+            "y": 372.35,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -386,7 +386,7 @@ klynt.data = {
             "title": "shot6",
             "x": 1577.7,
             "size": "medium",
-            "y": 515.05,
+            "y": 514.05,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -846,16 +846,16 @@ klynt.data = {
     },
     "aliases": {
         "aliasToId": {
-            "MUSIC": "E9E3D7CB-FC45-4617-6665-AD707BBD53AF",
-            "shot5": "54F97F7B-BA2C-1FBC-56F3-8CDF9D306D67",
             "About": "CD219F7D-243A-265F-BAE0-8CE60C0B1D7D",
-            "Contact": "291F2C03-A9C4-3842-52D4-AD624BB59EDC",
-            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3",
-            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
             "shot4": "49E24329-7BBD-8199-39D2-8CCFE0A1A8F0",
-            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584",
+            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
+            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA",
+            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3",
+            "Contact": "291F2C03-A9C4-3842-52D4-AD624BB59EDC",
+            "shot5": "54F97F7B-BA2C-1FBC-56F3-8CDF9D306D67",
             "Home": "5E44BD53-351A-0F66-3255-8CCC05FE0AB5",
-            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA"
+            "MUSIC": "E9E3D7CB-FC45-4617-6665-AD707BBD53AF",
+            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584"
         },
         "idToAlias": {
             "54F97F7B-BA2C-1FBC-56F3-8CDF9D306D67": "shot5",
@@ -902,7 +902,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "&Friends",
         "author": "merciv",
-        "modificationDate": 1647904843325,
+        "modificationDate": 1647905309862,
         "overlayCloseButtonTop": 16,
         "primaryColor": 3355443,
         "editorVersionNumber": "3.5.007",
