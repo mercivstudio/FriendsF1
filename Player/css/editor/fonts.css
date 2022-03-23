@@ -166,15 +166,6 @@
 
 @font-face {
 	font-family: Crimson Text;
-	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/CrimsonText-Italic.eot');
-	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Crimson Text;
 	font-weight: bold;
 	font-style: normal;
 	src: url('fonts/CrimsonText-Bold.eot');
@@ -183,12 +174,12 @@
 }
 
 @font-face {
-	font-family: Dancing Script;
-	font-weight: bold;
-	font-style: normal;
-	src: url('fonts/DancingScript-Bold.eot');
-	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/DancingScript-Bold.ttf') format('truetype');
+	font-family: Crimson Text;
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/CrimsonText-Italic.eot');
+	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -198,6 +189,15 @@
 	src: url('fonts/DancingScript-Regular.eot');
 	src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/DancingScript-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Dancing Script;
+	font-weight: bold;
+	font-style: normal;
+	src: url('fonts/DancingScript-Bold.eot');
+	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/DancingScript-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -212,10 +212,10 @@
 @font-face {
 	font-family: Lato;
 	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Lato-Regular.eot');
-	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Regular.ttf') format('truetype');
+	font-style: italic;
+	src: url('fonts/Lato-Italic.eot');
+	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -230,10 +230,10 @@
 @font-face {
 	font-family: Lato;
 	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/Lato-Italic.eot');
-	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Italic.ttf') format('truetype');
+	font-style: normal;
+	src: url('fonts/Lato-Regular.eot');
+	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -298,17 +298,17 @@
 }
 
 @font-face {
-	font-family: EB Garamond Medium;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/EBGaramond-Medium.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: EB Garamond;
 	font-weight: bold;
 	font-style: normal;
 	src: url('fonts/EBGaramond-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: EB Garamond Medium;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/EBGaramond-Medium.ttf') format('truetype');
 }
 
 @font-face {
