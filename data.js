@@ -51,18 +51,18 @@ klynt.data = {
     },
     "aliases": {
         "aliasToId": {
-            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
-            "About": "CD219F7D-243A-265F-BAE0-8CE60C0B1D7D",
             "Music": "E9E3D7CB-FC45-4617-6665-AD707BBD53AF",
-            "shot4": "49E24329-7BBD-8199-39D2-8CCFE0A1A8F0",
             "Contact": "291F2C03-A9C4-3842-52D4-AD624BB59EDC",
-            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA",
-            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3",
-            "Sequence_11": "A89CD80A-BF92-3AB6-C5A4-B2A99DE61EA8",
-            "Shows": "58047E94-DA80-643C-E5F6-B080030F724C",
+            "About": "CD219F7D-243A-265F-BAE0-8CE60C0B1D7D",
+            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
+            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584",
             "shot5": "54F97F7B-BA2C-1FBC-56F3-8CDF9D306D67",
+            "Shows": "58047E94-DA80-643C-E5F6-B080030F724C",
             "Home": "5E44BD53-351A-0F66-3255-8CCC05FE0AB5",
-            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584"
+            "shot4": "49E24329-7BBD-8199-39D2-8CCFE0A1A8F0",
+            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA",
+            "Sequence_11": "A89CD80A-BF92-3AB6-C5A4-B2A99DE61EA8",
+            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3"
         },
         "idToAlias": {
             "291F2C03-A9C4-3842-52D4-AD624BB59EDC": "Contact",
@@ -488,7 +488,7 @@ klynt.data = {
                 {
                     "autoplay": true,
                     "verticalAlign": "middle",
-                    "dataend": "00:01.33",
+                    "dataend": "00:05.01",
                     "src": [
                         {
                             "type": "video/mp4",
@@ -498,16 +498,12 @@ klynt.data = {
                     "zIndex": 0,
                     "id": "7F3451E7-9945-021D-13F5-B59BCDA45EA7",
                     "name": "shot1_noaudio.mp4",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
                     "horizontalAlign": "center",
                     "mediaHeight": 1500,
                     "fitToWindow": true,
                     "poster": "Medias/Posters/shot1_noaudio.mp4.jpg",
                     "volume": 1,
-                    "duration": "00:01.33",
+                    "duration": "00:05.01",
                     "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
@@ -516,13 +512,13 @@ klynt.data = {
                     "databegin": "00:00.00"
                 }
             ],
-            "duration": 0.33,
+            "duration": 4.01,
             "color": "rgba(0,0,0,1)",
             "id": "5E44BD53-351A-0F66-3255-8CCC05FE0AB5",
             "buttons": [
                 {
                     "centerY": "2.00",
-                    "dataend": "00:01.33",
+                    "dataend": "00:05.01",
                     "type": "klynt-button-1",
                     "zIndex": 1,
                     "transitionIn": {
@@ -548,7 +544,7 @@ klynt.data = {
                     "height": "350.00",
                     "label": "Sequence 11",
                     "id": "F809B367-9967-1CE0-E3C0-B2AA28B3CAD5",
-                    "databegin": "00:00.33"
+                    "databegin": "00:04.01"
                 }
             ]
         },
@@ -1060,7 +1056,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "&Friends",
         "author": "merciv",
-        "modificationDate": 1648019914921,
+        "modificationDate": 1648020348648,
         "projectId": "6B095B18-6D9A-14F9-ABC2-8CCBFEA03223",
         "primaryColor": 3355443,
         "editorVersionNumber": "3.5.007",
