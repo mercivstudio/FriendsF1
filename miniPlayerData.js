@@ -7,9 +7,9 @@ klynt.miniPlayerData = {
     "thumbnail": "Medias/Posters/shot1.mp4.jpg",
     "noWording": "No",
     "analyticsKey": "",
+    "downloadAppWording": "Download App",
     "redirectToMobileApp": "never",
     "launchAppWording": "Then Launch Project",
-    "downloadAppWording": "Download App",
     "url": "www.&friends.com",
     "description": ""
 }

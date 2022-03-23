@@ -180,8 +180,6 @@
 .klynt-button-9 {
 	opacity: 0;
 	background-image: url("img/button-9.png");
-	border: 2px solid rgba(255,255,255,1);
-	border-radius: 80px;
 }
 
 .klynt-button-9:hover {

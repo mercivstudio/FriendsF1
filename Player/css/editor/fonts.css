@@ -192,6 +192,15 @@
 }
 
 @font-face {
+	font-family: Dancing Script;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/DancingScript-Regular.eot');
+	src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/DancingScript-Regular.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Crimson Text;
 	font-weight: roman;
 	font-style: normal;
@@ -201,12 +210,12 @@
 }
 
 @font-face {
-	font-family: Dancing Script;
+	font-family: Lato;
 	font-weight: normal;
 	font-style: normal;
-	src: url('fonts/DancingScript-Regular.eot');
-	src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/DancingScript-Regular.ttf') format('truetype');
+	src: url('fonts/Lato-Regular.eot');
+	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -228,15 +237,6 @@
 }
 
 @font-face {
-	font-family: Lato;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Lato-Regular.eot');
-	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Regular.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: Lobster Two;
 	font-weight: bold;
 	font-style: normal;
@@ -248,19 +248,19 @@
 @font-face {
 	font-family: Lobster Two;
 	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/LobsterTwo-Italic.eot');
-	src: url('fonts/LobsterTwo-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/LobsterTwo-Italic.ttf') format('truetype');
+	font-style: normal;
+	src: url('fonts/LobsterTwo-Regular.eot');
+	src: url('fonts/LobsterTwo-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/LobsterTwo-Regular.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: Lobster Two;
 	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/LobsterTwo-Regular.eot');
-	src: url('fonts/LobsterTwo-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/LobsterTwo-Regular.ttf') format('truetype');
+	font-style: italic;
+	src: url('fonts/LobsterTwo-Italic.eot');
+	src: url('fonts/LobsterTwo-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/LobsterTwo-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -298,6 +298,13 @@
 }
 
 @font-face {
+	font-family: EB Garamond Medium;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/EBGaramond-Medium.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: EB Garamond;
 	font-weight: bold;
 	font-style: normal;
@@ -309,12 +316,5 @@
 	font-weight: normal;
 	font-style: normal;
 	src: url('fonts/EBGaramond-Regular.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: EB Garamond Medium;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/EBGaramond-Medium.ttf') format('truetype');
 }
 
