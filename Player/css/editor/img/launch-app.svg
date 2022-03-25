@@ -8,7 +8,7 @@
                 fill: rgba(255, 255, 255, 1); /* TERTIARY_COLOR */
             }
             #background {
-                fill: rgba(51, 51, 51, 0.5); /* PRIMARY_COLOR */
+                fill: rgba(0, 0, 0, 0.5); /* PRIMARY_COLOR */
             }
         ]]></style>
     </defs>
