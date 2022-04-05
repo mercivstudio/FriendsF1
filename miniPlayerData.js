@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
-    "thanksForWatchingWording": "Thanks for watching!",
     "resumePlaybackWording": "Resume playback?",
-    "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
-    "title": "&Friends",
-    "thumbnail": "Medias/Photos/Thumbnail1_00000.jpg",
-    "noWording": "No",
-    "launchAppWording": "Then Launch Project",
-    "analyticsKey": "",
     "redirectToMobileApp": "never",
+    "thanksForWatchingWording": "Thanks for watching!",
+    "noWording": "No",
+    "analyticsKey": "",
     "downloadAppWording": "Download App",
+    "title": "&Friends",
     "url": "www.&friends.com",
+    "fullscreenInfoWording": "This program will launch in fullscreen",
+    "launchAppWording": "Then Launch Project",
+    "thumbnail": "Medias/Photos/Thumbnail1_00000.jpg",
     "description": ""
 }
