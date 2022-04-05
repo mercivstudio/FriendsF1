@@ -550,7 +550,7 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "texts": [
                 {
-                    "right": "22.05",
+                    "right": "21.00",
                     "dataend": "00:15.63",
                     "type": "txt-Default",
                     "text": "<p style=\"text-align: right;\"><span style=\"font-family: 'EB Garamond Medium';\">MUSIC</span></p>",
@@ -698,6 +698,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
+                    "right": "21.00",
                     "dataend": "00:15.63",
                     "type": "txt-Default",
                     "text": "<p style=\"text-align: right;\"><span style=\"font-family: 'Venti CF Demi Bold';\"><span style=\"font-family: 'EB Garamond Medium';\">REFLECTIONS<br /></span></span></p>",
@@ -710,7 +711,6 @@ klynt.data = {
                     "bottom": "12.00",
                     "scales": false,
                     "duration": "00:15.63",
-                    "centerX": "298.98",
                     "width": "186.00",
                     "height": "41.00",
                     "link": {
@@ -1194,16 +1194,16 @@ klynt.data = {
         },
         "aliasToId": {
             "Home": "5E44BD53-351A-0F66-3255-8CCC05FE0AB5",
-            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584",
-            "Shows": "58047E94-DA80-643C-E5F6-B080030F724C",
-            "About": "CD219F7D-243A-265F-BAE0-8CE60C0B1D7D",
-            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
             "Contact": "291F2C03-A9C4-3842-52D4-AD624BB59EDC",
-            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA",
+            "About": "CD219F7D-243A-265F-BAE0-8CE60C0B1D7D",
+            "Shows": "58047E94-DA80-643C-E5F6-B080030F724C",
             "Music": "E9E3D7CB-FC45-4617-6665-AD707BBD53AF",
-            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3",
             "shot5": "54F97F7B-BA2C-1FBC-56F3-8CDF9D306D67",
-            "shot4": "49E24329-7BBD-8199-39D2-8CCFE0A1A8F0"
+            "shot6": "1937CF67-2952-40CC-DCBD-8CDFF72B8529",
+            "shot4": "49E24329-7BBD-8199-39D2-8CCFE0A1A8F0",
+            "shot8": "CCE42C51-68E4-C750-34E9-8CE109F3E9C3",
+            "shot3": "2C5CB6AD-ADAE-C334-CFB7-8CCFCE958584",
+            "shot2": "2F072616-4273-46B2-A554-8CCFB3B6CFCA"
         }
     },
     "wording": {
@@ -1264,7 +1264,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "&Friends",
         "author": "merciv",
-        "modificationDate": 1649117508286,
+        "modificationDate": 1649120752466,
         "overlayCloseButtonTop": 16,
         "primaryColor": 0,
         "editorVersionNumber": "3.5.007",
